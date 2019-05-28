@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1054300368747",
+    "firebase_url": "https://mapacalor-7ee6a.firebaseio.com",
+    "project_id": "mapacalor-7ee6a",
+    "storage_bucket": "mapacalor-7ee6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054300368747:android:b946a33ef24efc31",
+        "android_client_info": {
+          "package_name": "nredondo26.com.mapacalor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054300368747-rd84dhfmk9neiii1hti5o17vvfq5qmpr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nredondo26.com.mapacalor",
+            "certificate_hash": "547514aad44914f5b7660c00f13f7eac6c829615"
+          }
+        },
+        {
+          "client_id": "1054300368747-71mcrkenbl20pmh1mpqo0f3lnqihf9e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSVgzPabsJ_nZHVwA8jYx0V0w33xAmcOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054300368747-71mcrkenbl20pmh1mpqo0f3lnqihf9e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
